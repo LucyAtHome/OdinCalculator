@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project is written using neovim. I am practicing becoming more efficient while i work on this project.
 
 I am following the final section of the Foundations course of The Odin Project, here is my task:
@@ -29,3 +30,6 @@ Here are some use cases (expectations about your project):
         Make sure that your calculator only runs an operation when supplied with two numbers and an operator by the user. Example: you enter a number (2), followed by an operator button (+). You press the operator button (+) a second consecutive time. Your calculator should not evaluate this as (2 + 2) and should not display the result (4). If consecutive operator buttons are pressed, your calculator should not run any evaluations, it should only take the last operator entered to be used for the next operation.
 
 
+=======
+Just a template :)
+>>>>>>> 44276b4c89361b9a8b1e33fb08e7f53f43cc36f7
